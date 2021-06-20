@@ -15,7 +15,6 @@ import sys
 #
 
 def hurdleRace(k, height):
-    # print(f"{k} {height}")
     max_hurdle = max(height)
 
     if k > max_hurdle:
